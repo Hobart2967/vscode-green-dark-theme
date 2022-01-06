@@ -1,0 +1,21 @@
+{
+    "name": "vscode-green-dark-theme",
+    "displayName": "vscode-green-dark-theme",
+    "description": "Dark theme with green accent color",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "VSCode Green Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/VSCode Green Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
